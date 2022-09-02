@@ -1,0 +1,31 @@
+
+main{
+    display: flex;
+    align-items: center;
+    margin-top: 200px;
+}
+
+.about {
+    text-align: center;    
+}
+
+.about-title{
+    padding: 5px;
+}
+
+.about-frase {
+    font: normal 700 16px 'Raleway';
+    line-height: 50px;
+   
+}
+
+p {
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+.banner-pic {
+   width: 40%;
+   margin-bottom: 50px;
+}
+
